@@ -6,4 +6,16 @@ tags: [test1, test2]
 categories: "[test2]"
 ---
 
-Bonjour
+Cet article présente 10 plateformes différentes pour apprendre l’UX et l’UI. L’auteur liste chacune de ces plateformes avec une brève description, les caractéristiques requises pour y prétendre et conclut chaque partie par un tableau contenant les avantages/inconvénients ainsi que le prix et le nombre de cours. Il est intéressant de voir la multitude de possibilités concernant l’apprentissage de ce vaste domaine.
+
+Les 10 plateformes sont: 
+    o	CareerFoundry
+    o	Interactice Design Foundation
+    o	Coursera
+    o	In Learning
+    o	Udemy
+    o	Treehouse
+    o	Pluralsight
+    o	Skillshare
+    o	Springboard
+    o	UX Design Institute
