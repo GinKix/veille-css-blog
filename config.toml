@@ -1,5 +1,5 @@
 #Uncomment as needed
-#baseurl = "https://ginkix.github.io/veille-css-blog/"
+baseurl = "https://ginkix.github.io/veille-css-blog/"
 languageCode = "en-us"
 Title = "LabVeilTech"
 # Copyright notice. This is displayed in the footer.
@@ -14,24 +14,24 @@ theme = "potato-dark"
   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
-  twitter = "Your Twitter username"
-  facebook = "Your Facebook username"
-  instagram = "Your Instagram username"
+  # twitter = "Your Twitter username"
+  # facebook = "Your Facebook username"
+  # instagram = "Your Instagram username"
   github = "GinKix"
-  npm = "Your npm username"
-  codepen = "Your CodePen username"
-  dribbble = "Your Dribbble username"
-  fivehundredpx = "Your 500px username" # 500px
-  flickr = "Your Flickr username"
-  pinterest = "Your Pinterest username"
-  linkedin = "Your LinkedIn username"
+  # npm = "Your npm username"
+  # codepen = "Your CodePen username"
+  # dribbble = "Your Dribbble username"
+  # fivehundredpx = "Your 500px username" # 500px
+  # flickr = "Your Flickr username"
+  # pinterest = "Your Pinterest username"
+  # linkedin = "Your LinkedIn username"
   # Disqus shortname
-  disqus = ""
+  # disqus = ""
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  # ga_api_key = "Your Google Analytics tracking id"
   # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  # logo = "/path/to/logo"
+  # favicon = "/path/to/favicon"
 
 [[menu.main]]
     name = "Blog"

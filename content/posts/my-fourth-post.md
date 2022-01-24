@@ -14,3 +14,4 @@ A la création d’un site web, certains concepts de design sont mauvais pour le
     •	Ne pas tromper l’utilisateur en lui faisant payer plus
     •	Ne pas vouloir faire des designs « cools » oubliant les règles d’UX 
 
+*Sources*: https://www.pengreendesign.com/bad-ui-patterns-that-hurt-your-business-1/
