@@ -6,9 +6,9 @@ Title = "LabVeilTech"
 copyright = "&copy; Kilian Crettaz"
 theme = "potato-dark"
 
-[taxonomies]
-    categories = ['UX']
-    tags = ['design', 'psychologie', 'interface', 'UI', 'plateformes', 'patterns']
+#[taxonomies]
+#    categories = ['UX']
+#    tags = ['design', 'psychologie', 'interface', 'UI', 'plateformes', 'patterns']
 
 [params]
   paginate = 10
