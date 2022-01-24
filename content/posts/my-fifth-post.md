@@ -2,9 +2,11 @@
 title: "Post n°5"
 date: 2022-01-23T10:43:40+01:00
 draft: false
+tags: ['psychologie', 'interface', 'patterns', 'UI']
+categories: ['UX']
 ---
 
-# Experimentation
+## Experimentation
 
 Le sujet de cette expérimentation concerne principalement le 4ème article et ses patterns UI. Il y a énormément de concepts considérés comme des « règles ». Elles ne sont pas toutes simples à appréhender durant la création d’un site. Je vais donc expérimenter l’inverse de ces fameux patterns UI mentionnés dans cet article.
 

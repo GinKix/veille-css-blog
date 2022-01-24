@@ -2,8 +2,8 @@
 title: "Post n°1"
 date: 2022-01-15T14:41:06+01:00
 draft: false
-tags: [test1, test2]
-categories: "[test2]"
+tags: ['psychologie', 'design']
+categories: ['UX']
 ---
 
 « UX Design Blog and Resources to Follow Religiously », ce titre parle de lui-même. Une série de blog concernant l’UX design sont listés et brièvement présentés. Néanmoins pour rajouter de l’intérêt à cet article, l’auteur n’a pas simplement énumérés tous les blogs recommandés. Il les a triés par différents critères. Ces critères sont au nombre de 10 et divisent de façon pertinente le sujet vaste qu’est l’UX.
@@ -20,4 +20,4 @@ categories: "[test2]"
 
 J'ai choisi cet article car il regroupe un large contenu informatif à propos de l'UX en général. Beaucoup d'articles le font aussi mais c'est le premier que je trouve autant bien fait. La séparation en différents critères est astucieuse et ça rend la lecture d'autant plus intéressante. Je me suis réellement rendu compte à quel point ce sujet est vaste. La variété des liens présentés m'a conforté dans mon choix à propos de l'UX.
 
-*Sources*:	https://www.awwwards.com/ux-design-blog-and-resources-to-follow-religiously.html
+*Sources*: https://www.awwwards.com/ux-design-blog-and-resources-to-follow-religiously.html
