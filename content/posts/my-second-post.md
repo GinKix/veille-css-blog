@@ -1,6 +1,6 @@
 ---
 title: "Post n°2"
-date: 2021-11-15T15:47:14+01:00
+date: 2022-01-16T15:47:06+01:00
 draft: false
 tags: [test1, test2]
 categories: "[test2]"
@@ -19,5 +19,7 @@ Les 10 plateformes sont:
     o	Skillshare
     o	Springboard
     o	UX Design Institute
+
+J'ai choisi cet article pour voir la variété de cursus proposé dans ce domaine et quelles sont leurs critères d'évaluation. Je l'ai trouvé un peu longuet à lire et au final je n'en ai pas retiré grand chose. Il est tout de même intéressant de noter l'intérêt grandissant des entreprises pour ce domaine. Je trouve ça encourageant pour la suite de mon cursus si j'arrive à trouver une entreprise pour me perfectionner dans ce domaine.
 
 *Sources*: https://uxplanet.org/top-10-online-platforms-to-learn-ui-ux-design-dcfb613d097a

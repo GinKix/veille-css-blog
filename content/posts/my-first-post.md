@@ -1,12 +1,11 @@
 ---
 title: "Post n°1"
-date: 2021-11-15T14:41:06+01:00
+date: 2022-01-15T14:41:06+01:00
 draft: false
 tags: [test1, test2]
 categories: "[test2]"
 ---
 ***Titre*** 
-
 **Titre**
 *Titre*
 
@@ -21,5 +20,7 @@ categories: "[test2]"
     8.	Trends : Mise en avant de certaines communautés partageant leur processus de travail et opinions au niveau du design
     9.	Design Patterns : Regroupe différentes ressources contenant des créations dans le but de s’en inspirer
     10.	Book Reviews : Fournit des reviews d’expert dans le domaine à propos des dernières publications dans le design
+
+J'ai choisi cet article car il regroupe un large contenu informatif à propos de l'UX en général. Beaucoup d'articles le font aussi mais c'est le premier que je trouve autant bien fait. La séparation en différents critères est astucieuse et ça rend la lecture d'autant plus intéressante. Je me suis réellement rendu compte à quel point ce sujet est vaste. La variété des liens présentés m'a conforté dans mon choix à propos de l'UX.
 
 *Sources*:	https://www.awwwards.com/ux-design-blog-and-resources-to-follow-religiously.html

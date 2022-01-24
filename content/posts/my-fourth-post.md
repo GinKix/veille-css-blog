@@ -1,6 +1,6 @@
 ---
 title: "Post n°4"
-date: 2021-11-15T15:47:28+01:00
+date: 2022-01-18T13:41:06+01:00
 draft: false
 tags: [test1, test2]
 categories: "[test2]"
@@ -13,5 +13,7 @@ A la création d’un site web, certains concepts de design sont mauvais pour le
     •	Ne jamais demandé à l’utilisateur de ne pas faire une action (l’indiquer mais bloquer l’action au préalable pour éviter tout problème)
     •	Ne pas tromper l’utilisateur en lui faisant payer plus
     •	Ne pas vouloir faire des designs « cools » oubliant les règles d’UX 
+
+J'ai choisi cet article parce qu'il aborde un sujet plus concret en montrant les démarches UI qu'il faut suivre impérativement au niveau professionnel. Certaines ne m'étaient pas inconnues mais par contre d'autres ne m'auraient pas effleuré l'esprit alors que ça semble si évident en lisant cet article.
 
 *Sources*: https://www.pengreendesign.com/bad-ui-patterns-that-hurt-your-business-1/

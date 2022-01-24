@@ -1,6 +1,6 @@
 ---
 title: "Post n°3"
-date: 2021-11-15T15:47:21+01:00
+date: 2022-01-17T15:41:06+01:00
 draft: false
 tags: [test1, test2]
 categories: "[test2]"
@@ -18,6 +18,6 @@ categories: "[test2]"
     •	Donald Norman, un scientifique cognitif, inventa le terme UX
     •	C’est un domaine en constante évolution avec une progression envisagée comme exponentielle
 
-J'ai ressorti les points principaux de cet article passionnant.
+J'ai ressorti les points principaux de cet article passionnant sous forme de bullet points, ça me semblait plus intéressant pour mieux condenser le large contenu de la matière présentée. J'ai choisi cet article car il abordait un angle que je n'avais jamais pris le temps d'analyser. C'est à dire l'évolution de ce domaine au fil des années.
 
 *Sources*: https://thenextweb.com/news/a-brief-history-of-ux-design-and-its-evolution
