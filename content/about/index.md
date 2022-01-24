@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-01-24T14:18:16+01:00
-draft: true
+draft: false
 ---
 
 Ayant débuté par une formation d'orientation technique en informatique, je suis venu à la HEIG-VD pour découvrir une nouvelle palette de compétences liée, cette fois-ci, au design et à la créativité. Je reste toutefois très porté sur du flat design, c'est à dire un style sobre et simple voire minimaliste.
