@@ -7,8 +7,8 @@ copyright = "&copy; Kilian Crettaz"
 theme = "potato-dark"
 
 [taxonomies]
-    category = 'categories'
-    tag = 'tags'
+    categories = ['UX']
+    tags = ['design', 'psychologie', 'interface', 'UI', 'plateformes', 'patterns']
 
 [params]
   paginate = 10

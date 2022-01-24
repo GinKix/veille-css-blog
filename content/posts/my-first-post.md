@@ -5,9 +5,6 @@ draft: false
 tags: [test1, test2]
 categories: "[test2]"
 ---
-***Titre*** 
-**Titre**
-*Titre*
 
 « UX Design Blog and Resources to Follow Religiously », ce titre parle de lui-même. Une série de blog concernant l’UX design sont listés et brièvement présentés. Néanmoins pour rajouter de l’intérêt à cet article, l’auteur n’a pas simplement énumérés tous les blogs recommandés. Il les a triés par différents critères. Ces critères sont au nombre de 10 et divisent de façon pertinente le sujet vaste qu’est l’UX.
     1.	Strategy : à propos de la technique et des guides qui sont implémentables pour atteindre l’objectif de design fixé, ce qui permet d’améliorer le processus créatif
