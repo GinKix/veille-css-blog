@@ -2,8 +2,8 @@
 title: "Post n°3"
 date: 2022-01-17T15:41:06+01:00
 draft: false
-tags: ['histoire', 'culture']
-categories: ['ux']
+tags: ["histoire", "culture"]
+categories: ["ux"]
 ---
 
     •	Historique de l’UX à travers le temps

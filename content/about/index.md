@@ -6,7 +6,7 @@ draft: false
 
 ## Kilian Crettaz
 
-![kiliancrettaz_1](kiliancrettaz_1.jpg)
+![kiliancrettaz_1](https://raw.githubusercontent.com/GinKix/veille-css-blog/main/static/img/kiliancrettaz_1.jpg)
 
 Ayant débuté par une formation d'orientation technique en informatique, je suis venu à la HEIG-VD pour découvrir une nouvelle palette de compétences liée, cette fois-ci, au design et à la créativité. Je reste toutefois très porté sur du flat design, c'est à dire un style sobre et simple voire minimaliste.
 

@@ -2,8 +2,8 @@
 title: "Post n°4"
 date: 2022-01-18T13:41:06+01:00
 draft: false
-tags: ['ui', 'patterns']
-categories: ['ux']
+tags: ["ui", "patterns"]
+categories: ["ux"]
 ---
 
 A la création d’un site web, certains concepts de design sont mauvais pour les utilisateurs. Ces concepts peuvent altérer l’utilisation du site en empêchant la compréhension voire l’influencer/la forcer dans un sens, ce qui n’est pas une démarche morale. Cet article contient une liste de « pattern » lié à sujet, qu’il faut absolument éviter de reproduire. Certains de ces conseils peuvent sembler logique au premier abord mais ils peuvent être facilement négligés. Ce qui, inévitablement, fera pâtir l’utilisateur.
