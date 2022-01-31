@@ -8,6 +8,8 @@ draft: false
 
 ![kiliancrettaz_1](https://raw.githubusercontent.com/GinKix/veille-css-blog/main/static/img/kiliancrettaz_1.jpg)
 
+Je m'appelle Kilian Crettaz, j'ai 24 ans et je suis en 3ème année à la HEIG-VD en Ingénierie des Médias.
+
 Ayant débuté par une formation d'orientation technique en informatique, je suis venu à la HEIG-VD pour découvrir une nouvelle palette de compétences liée, cette fois-ci, au design et à la créativité. Je reste toutefois très porté sur du flat design, c'est à dire un style sobre et simple voire minimaliste.
 
 L’Ikigai réalisé dans le cadre de ce cours m’a poussé vers le design. Je pensais que c’était le mieux mais au fil de ces derniers mois, je me suis rendu compte que ça n’était pas tout à fait ça. Ce qui me passionne réellement, ce sont les domaines UX et les tests utilisateurs. En effet, un point que j’affectionne tout particulièrement est l’aspect psychologique qui justement se retrouve dans ces domaines.

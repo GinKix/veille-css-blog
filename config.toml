@@ -8,7 +8,8 @@ theme = "potato-dark"
 
 [taxonomies]
     categories = [
-        "ux"
+        "ux",
+        "ui",
     ]
     tags = [
         "design", 
@@ -18,7 +19,7 @@ theme = "potato-dark"
         "plateformes", 
         "patterns", 
         "histoire", 
-        "culture"
+        "culture",
     ]
 
 [params]
@@ -50,14 +51,19 @@ theme = "potato-dark"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "/about"
+    name = "Categories"
+    url = "/categories"
     weight = 2
 
 [[menu.main]]
-    identifier = "theme"
-    name = "Theme"
+    name = "Tags"
+    url = "/tags"
     weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
